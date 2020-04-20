@@ -1,7 +1,3 @@
-com/eeyore/DoitServlet.class
-com/eeyore/FDTicket.class
-com/eeyore/FDContact.class
-com/eeyore/HelloServlet$1.class
-com/eeyore/HelloServlet$2.class
-com/eeyore/HelloServlet.class
-com/eeyore/DoitServlet$1.class
+com/eeyore/DoReply.class
+com/eeyore/DoSetStatus.class
+com/eeyore/Utils.class
